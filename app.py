@@ -8,7 +8,7 @@ import random
 import time
 from datetime import datetime, timedelta
 import re
-
+#comentario 2
 # Configuración de la página
 st.set_page_config(
     page_title="Sistema de Báscula Académica",
