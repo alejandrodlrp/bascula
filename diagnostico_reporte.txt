@@ -1,0 +1,19 @@
+
+REPORTE DE DIAGNÓSTICO - SISTEMA DE BÁSCULA ACADÉMICA
+=====================================================
+Fecha: 2025-07-07 20:15:41
+Sistema: Windows 11
+Python: 3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]
+Directorio: C:\I4ware\backend\redsolvers-carga\raspberry-pi-control-system\bascula_Alejo
+
+ESTADO DE COMPONENTES:
+- Python: ✓
+- Módulos: Verificar salida anterior
+- Archivos: Verificar salida anterior
+- Base de datos: Verificar salida anterior
+- Permisos: Verificar salida anterior
+
+RECOMENDACIONES:
+- Si hay módulos faltantes, ejecutar: pip install -r requirements.txt
+- Si hay errores de permisos, verificar ubicación del proyecto
+- Para soporte, consultar GUIA_RESOLUCION_PROBLEMAS.md
